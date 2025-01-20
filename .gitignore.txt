@@ -14,3 +14,10 @@
 # Ignore temporary Office files
 ~$*
 *.tmp
+
+# PDFs
+*.pdf
+
+#Temporary system files:
+*.DS_Store
+*Thumbs.db
