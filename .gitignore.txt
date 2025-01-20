@@ -1,0 +1,16 @@
+# Ignore Word files
+*.doc
+*.docx
+*.dot
+*.dotx
+
+# Ignore Excel files
+*.xls
+*.xlsx
+*.xlsm
+*.xlt
+*.xltx
+
+# Ignore temporary Office files
+~$*
+*.tmp
